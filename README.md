@@ -8,7 +8,7 @@ Sections:
 
 ✅ Beginner SQL(Classicmodels.sql): filtering, sorting, distinct, IN/NOT IN, LIKE, etc.
 
-✅ Intermediate SQL (Classicmodels1.sql): joins, unions, aggregations, GROUP BY, HAVING.
+✅ Intermediate SQL (Classicmodels2.sql): joins, unions, aggregations, GROUP BY, HAVING.
 
 ✅ Advanced SQL (Classicmodels3.sql): subqueries, CTEs, case statements, window functions, date & string functions.
 
