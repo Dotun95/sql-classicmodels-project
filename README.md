@@ -6,11 +6,11 @@ Description: SQL project going from beginner to advanced using ClassicModels dat
 
 Sections:
 
-✅ Beginner SQL: filtering, sorting, distinct, IN/NOT IN, LIKE, etc.
+✅ Beginner SQL(Classicmodels.sql): filtering, sorting, distinct, IN/NOT IN, LIKE, etc.
 
-✅ Intermediate SQL: joins, unions, aggregations, GROUP BY, HAVING.
+✅ Intermediate SQL (Classicmodels1.sql): joins, unions, aggregations, GROUP BY, HAVING.
 
-✅ Advanced SQL: subqueries, CTEs, case statements, window functions, date & string functions.
+✅ Advanced SQL (Classicmodels3.sql): subqueries, CTEs, case statements, window functions, date & string functions.
 
 Tool used: MySQL
 
